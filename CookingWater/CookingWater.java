@@ -1,5 +1,7 @@
 // https://open.kattis.com/problems/cookingwater
 
+// ola was here
+
 import java.util.Scanner;
 
 public class CookingWater {
