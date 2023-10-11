@@ -1,6 +1,7 @@
 # Solutions to [Kattis](https://open.kattis.com/problems)
 
 ### Total problems solved: **3**
+### Total score: **10.1**
 
 | Problem | Difficulty | Solution |
 | ------- | ---------- | -------- |
