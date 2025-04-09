@@ -1,0 +1,101 @@
+# General
+*.class
+*.exe
+*.dll
+*.pdb
+*.suo
+*.user
+*.cache
+*.DS_Store
+Thumbs.db
+
+# Java
+*.jar
+*.war
+*.ear
+bin/
+target/
+build/
+out/
+.metadata/
+.settings/
+.classpath
+.project
+*.iml
+.idea/
+
+# .NET
+obj/
+bin/
+[Bb]in/
+[Oo]bj/
+*.userprefs
+*.nupkg
+*.swp
+*.vs/
+.vs/
+*.sln
+TestResults/
+*.VisualState.xml
+_ReSharper.*
+*.resharper
+*.DotSettings.user
+
+# C#
+*.csproj
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Test coverage
+coverage/
+*.coverage
+*.coveragexml
+
+# Logs and databases
+*.log
+*.sqlite
+*.sql
+
+# Editors
+.vscode/
+.idea/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Kattis specific
+*.kattis
+*.submission
+
+# Dependency directories
+node_modules/
+jspm_packages/
+bower_components/
+
+# Environment files
+.env
+*.env.local
+*.env.*.local
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
